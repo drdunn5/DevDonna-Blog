@@ -39,6 +39,11 @@
     <p>Today I watched a tutorial by Programming Liftoff to REALLY set up my GitHub Pages and using a Jekyll theme.</p>
   <p>I still have ALOT of work to do but at least I've started something!</p>
 </div>
+     <div>
+  <h3>08/08/2019</h3>
+    <p>I FINALLY completed the specificity exercise on the Colt Steele Web Dev Bootcamp. I didn't know I could use 2 nth-of-type selectors side by side!!</p>
+  <p>I had a great meeting with my accountability partner, Sonja. We both agree that we need and will ramp up our learning. We're so pumped for the future!</p>
+</div>
 
 
 </body>
