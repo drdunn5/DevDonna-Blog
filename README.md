@@ -44,7 +44,14 @@
     <p>I FINALLY completed the specificity exercise on the Colt Steele Web Dev Bootcamp. I didn't know I could use 2 nth-of-type selectors side by side!!</p>
   <p>I had a great meeting with my accountability partner, Sonja. We both agree that we need and will ramp up our learning. We're so pumped for the future!</p>
 </div>
-
+    <div>
+ <h3>08/09/2019</h3>
+    <p>Began section 6: Intermediate CSS. Reviewed several font properties: font-family, font-size, font-weight. Learned pixels are absolute length units whereas ems are relative length units. Box model review 2morrow!</p>
+    </div>
+    <div>
+     <h3>08/10/2019</h3>
+    <p>Reviewed Box Model: content, padding, border, margin. Completed Tic Tac Toe exercise using HTML <table> element and CSS border properties. Discovered @realtoughcandy & enjoyed reading self-taught dev success stories.</p> 
+</div>
 
 </body>
 </html>
